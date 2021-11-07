@@ -9,4 +9,3 @@
 - 🤔 I’m looking for help with understanding the basics better
 - 💬 I am a hobby coder from Sydney, Australia
 - 📫 How to reach me: @Kaushik on IG
-- 
