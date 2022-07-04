@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Open Source Projects in my spare time
 - 💬 I am a hobby coder from Sydney, Australia
-- 📫 How to reach me: @Kaushik on IG
+- 📫 How to reach me: Contact me via twitter
