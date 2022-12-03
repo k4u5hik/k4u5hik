@@ -5,5 +5,4 @@
 
 - 🔭 I’m currently building Finance and Health Applications
 - 🌱 I’m currently learning to Nextjs and Firebase
-- 👯 I’m looking to collaborate on Open Source, Small and Passion Projects in my spare time
 - 💬 I am a hobby coder from Sydney, Australia
