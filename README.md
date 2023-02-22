@@ -11,3 +11,4 @@ Some Fun Projects:
 - Windows XP CSS Style: https://kaushik.au/winxp-css/
 - Drinks Database: http://drinksbase.netlify.app
 - Premium Bricks Ecommerce Store: https://bricksite-stripe-checkout.k4u5hik.repl.co/
+- Python script for AWS Practice Test: https://github.com/k4u5hik/AWS-Certified-Cloud-Practitioner---Practice-Test
