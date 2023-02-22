@@ -7,5 +7,6 @@
 - 🌱 I’m currently learning to Nextjs and Firebase
 - 💬 I am a hobby coder from Sydney, Australia
 
-Windows XP CSS Style: https://kaushik.au/winxp-css/
-Drinks Database: http://drinksbase.netlify.app
+Some Fun Projects:
+- Windows XP CSS Style: https://kaushik.au/winxp-css/
+- Drinks Database: http://drinksbase.netlify.app
