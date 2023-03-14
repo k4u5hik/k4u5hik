@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently building Finance and Health Applications
 - 🌱 I’m currently creating notes for https://k4u5hik.github.io
-- 💬 I am a hobby coder from Sydney, Australia
+- 💬 I am a Sydney-based MBA, accountant, and hobby coder.
 
 Some Fun Projects:
 - Windows XP CSS Style: https://kaushik.au/winxp-css/
