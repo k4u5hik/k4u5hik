@@ -8,4 +8,4 @@
 - 💬 I am a Sydney-based MBA, accountant, and hobby coder.
 
 Some Fun Projects:
-- Windows XP CSS Style: [https://k4u5hik.github.io/winxp-css/](https://k4u5hik.github.io/winxp-css/)
+- Windows XP CSS Style: [https://kaushik.au/winxp-css/](https://k4u5hik.github.io/winxp-css/)
